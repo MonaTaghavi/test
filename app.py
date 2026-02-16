@@ -1,7 +1,7 @@
 print("Hello, World!")
 
 def kaveh():
-    print("This is a function called kaveh.")
+    print("This is a function called Mona.")
     
 print("Welcome to computer tools.")
 
